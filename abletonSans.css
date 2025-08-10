@@ -1,0 +1,91 @@
+/* Ableton Sans Font Faces */
+@font-face {
+    font-family: 'AbletonSans';
+    src: url('abletonSans/AbletonSans-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AbletonSans';
+    src: url('abletonSans/AbletonSans-Italic.woff') format('woff');
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'AbletonSans';
+    src: url('abletonSans/AbletonSans-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AbletonSans';
+    src: url('abletonSans/AbletonSans-BoldItalic.woff') format('woff');
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'AbletonSans';
+    src: url('abletonSans/AbletonSans-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AbletonSans';
+    src: url('abletonSans/AbletonSans-ExtraLightItalic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'AbletonSans';
+    src: url('abletonSans/AbletonSans-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AbletonSans';
+    src: url('abletonSans/AbletonSans-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'AbletonSans';
+    src: url('abletonSans/AbletonSans-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AbletonSans';
+    src: url('abletonSans/AbletonSans-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'AbletonSansBold';
+    src: url('abletonSans/AbletonSansBold-Regular.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AbletonSansLight';
+    src: url('abletonSans/AbletonSansLight-Regular.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AbletonSansMedium';
+    src: url('abletonSans/AbletonSansMedium-Regular.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
